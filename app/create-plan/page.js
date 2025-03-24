@@ -161,7 +161,7 @@ export default function CreatePlane (){
 
     useEffect (() => {
         handleValidate();
-    }, [selectedOptions]);
+    }, [selectedOptions, handleValidate]);
 
     function handleCloseModal() {
         setModalIsOpen(false);

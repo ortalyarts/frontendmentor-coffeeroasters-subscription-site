@@ -66,7 +66,7 @@ export default function Home() {
         <section className="hero hero-home">
           <h1 className="hero-title">Great coffee made simple.</h1>
           <p className="hero-text">
-            Start your mornings with the world's best coffees. Try our expertly curated artisan 
+            Start your mornings with the world&apos;s best coffees. Try our expertly curated artisan 
             coffees from our best roasters delivered directly to your door, at your schedule.
           </p>
           <Link href="/create-plan" className="btn-main">Create your plan</Link>

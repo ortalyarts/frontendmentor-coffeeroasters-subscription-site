@@ -85,8 +85,8 @@ export default function AboutUs (){
             <div className="title-text-holder">
                 <h1 className="title-3">Our commitment</h1>
                 <p className="body-text">
-                We're built on a simple mission and a commitment to doing good along the way. We want to 
-                make it easy for you to discover and brew the world's best coffee at home. It all starts 
+                We&apos;re built on a simple mission and a commitment to doing good along the way. We want to 
+                make it easy for you to discover and brew the world&apos;s best coffee at home. It all starts 
                 at the source. To locate the specific lots we want to purchase, we travel nearly 60 days 
                 a year trying to understand the challenges and opportunities in each of these places.
                 We collaborate with exceptional coffee growers and empower a global community of farmers 
