@@ -27,15 +27,17 @@ Users should be able to:
 - View the optimal layout for each page depending on their device's screen size
 - See hover states for all interactive elements throughout the site
 - Make selections to create a coffee subscription and see an order summary modal of their choices
+- The app provides sprecific calculations according to selected by the user options (like weight or frequency of deliveries)
+- The order summary text is generated according to the selected options
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/ortalyarts/frontendmentor-coffeeroasters-subscription-site)
+- Live Site URL: [Site preview](https://frontendmentor-coffeeroasters-subscription-site.vercel.app/)
 
 ## My process
 
